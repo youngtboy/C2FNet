@@ -1,5 +1,5 @@
 ## Effective Cross-Modality and Cross-Level Feature Fusion For RGB-D Salient Obejct Detection (C<sup>2</sup>FNet)
-The Greatest Truths are The Simplest ！！！
+Simpler, Better ！！！
 
 Code will be released ！！！
 
